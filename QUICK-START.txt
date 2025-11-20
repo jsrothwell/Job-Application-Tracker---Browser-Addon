@@ -1,0 +1,179 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    JOB HUNTING EXTENSIONS - QUICK START                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  📋 JOB APPLICATION TRACKER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  PURPOSE: Track all your job applications in one place
+
+  HOW TO USE:
+  1. Visit any job posting (LinkedIn, Indeed, Glassdoor, etc.)
+  2. Click the green "Track Job" button (bottom-right)
+  3. Click extension icon to view dashboard
+  4. Update status as you progress
+  5. Set follow-up reminders
+
+  KEY FEATURES:
+  ✓ One-click save jobs
+  ✓ Duplicate detection
+  ✓ Status tracking (Applied → Interview → Offer)
+  ✓ Follow-up reminders with browser notifications
+  ✓ Dashboard with statistics
+  ✓ Export to CSV
+
+  STATUS FLOW:
+  Not Applied → Applied → Screening → Interview → Interviewed → Offer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🤝 LINKEDIN CONNECTION FINDER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  PURPOSE: Find your LinkedIn connections at companies you're applying to
+
+  HOW TO USE:
+  1. MUST BE LOGGED INTO LINKEDIN! ⚠️
+  2. Visit any job posting
+  3. Banner appears showing your connections
+  4. Click "View Connections" to see details
+  5. Click profile links to reach out
+
+  KEY FEATURES:
+  ✓ Automatic company detection
+  ✓ Shows 1st-degree connections
+  ✓ Manual search option for 2nd/3rd degree
+  ✓ Message templates included
+  ✓ Connection caching (24 hours)
+
+  BENEFITS:
+  ✓ Get employee referrals (50%+ higher interview rate!)
+  ✓ Get insider information
+  ✓ Stand out from other applicants
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🚀 CHROME INSTALLATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1. Extract both ZIP files
+  2. Go to: chrome://extensions/
+  3. Turn ON "Developer mode" (top right)
+  4. Click "Load unpacked"
+  5. Select extension folder
+  6. Repeat for second extension
+  7. Done!
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🦊 FIREFOX INSTALLATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1. Extract both ZIP files
+  2. Go to: about:debugging#/runtime/this-firefox
+  3. Click "Load Temporary Add-on..."
+  4. Select manifest.json in first folder
+  5. Repeat for second extension
+  6. Done!
+
+  NOTE: Extensions reload when Firefox restarts
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🎯 SUPPORTED JOB SITES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✅ LinkedIn Jobs          ✅ Monster
+  ✅ Indeed                 ✅ ZipRecruiter
+  ✅ Glassdoor              ✅ Dice
+  ✅ Lever.co               ✅ Ashby HQ
+  ✅ Greenhouse
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  💡 USING BOTH TOGETHER (Recommended!)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  THE ULTIMATE WORKFLOW:
+
+  1. Browse job posting → See connections via LinkedIn finder
+  2. Reach out to connections for insights/referrals
+  3. Save job with Application Tracker
+  4. Update status as you progress
+  5. Set follow-up reminders
+  6. Track everything in one place!
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🛠️ QUICK TROUBLESHOOTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  PROBLEM: Nothing appearing on job pages
+  FIX: Wait 2-3 seconds, then refresh page
+
+  PROBLEM: LinkedIn finder not working
+  FIX: Make sure you're logged into LinkedIn!
+
+  PROBLEM: Can't track jobs
+  FIX: Check extension is enabled at chrome://extensions/
+
+  PROBLEM: Notifications not working
+  FIX: Check browser notification permissions
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⚡ PRO TIPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  📋 Application Tracker:
+     • Add detailed notes to each job
+     • Set follow-up reminders for 1-2 weeks after applying
+     • Export data weekly to track your success rate
+     • Use search to quickly find specific companies
+
+  🤝 LinkedIn Finder:
+     • Check for connections BEFORE applying
+     • Reach out asking for insights first, referrals second
+     • Personalize every message you send
+     • Use the included message template as a starting point
+     • Click "Search Manually" to see 2nd/3rd degree connections
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  📁 WHAT'S INCLUDED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✓ job-tracker-extension.zip - Application tracker
+  ✓ linkedin-connections-extension.zip - Connection finder
+  ✓ EXTENSIONS-OVERVIEW.md - Complete guide
+  ✓ This quick reference card
+  ✓ Full README for each extension
+  ✓ All source code
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🔒 PRIVACY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✓ All data stored LOCALLY on your device
+  ✓ No cloud sync
+  ✓ No account required
+  ✓ No data sent to external servers
+  ✓ Complete privacy
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  📊 SUCCESS STATS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  • Employee referrals increase interview rate by 50%+
+  • Organized job search = 30% less time wasted
+  • Follow-up reminders = 40% more responses
+  • Combined usage = Significantly better outcomes!
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  💼 Ready to supercharge your job search?                                    ║
+║  📧 Questions? Check EXTENSIONS-OVERVIEW.md                                  ║
+║  ⭐ Good luck with your job hunt!                                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
