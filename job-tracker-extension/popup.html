@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Application Tracker</title>
+  <link rel="stylesheet" href="popup-styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>📋 Application Tracker</h1>
+    </header>
+
+    <div class="stats-grid">
+      <div class="stat-card total">
+        <div class="stat-number" id="stat-total">0</div>
+        <div class="stat-label">Total Jobs</div>
+      </div>
+      <div class="stat-card applied">
+        <div class="stat-number" id="stat-applied">0</div>
+        <div class="stat-label">Applied</div>
+      </div>
+      <div class="stat-card interview">
+        <div class="stat-number" id="stat-interview">0</div>
+        <div class="stat-label">Interviews</div>
+      </div>
+      <div class="stat-card offer">
+        <div class="stat-number" id="stat-offer">0</div>
+        <div class="stat-label">Offers</div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <div class="tabs">
+        <button class="tab active" data-status="all">All</button>
+        <button class="tab" data-status="Not Applied">Saved</button>
+        <button class="tab" data-status="Applied">Applied</button>
+        <button class="tab" data-status="Interview">Interview</button>
+      </div>
+      <div class="actions">
+        <button id="export-btn" title="Export to CSV">💾 Export</button>
+        <button id="clear-btn" title="Clear all data">🗑️ Clear</button>
+      </div>
+    </div>
+
+    <div class="search-box">
+      <input type="text" id="search-input" placeholder="Search jobs, companies...">
+    </div>
+
+    <div id="applications-list" class="applications-list">
+      <div class="empty-state">
+        <p>📋 No applications yet</p>
+        <p class="hint">Visit a job posting and click "Track Job" to get started!</p>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>Total tracked: <span id="total-count">0</span> jobs</p>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+{
+  "manifest_version": 3,
+  "name": "Job Application Tracker",
+  "version": "1.0.0",
+  "description": "Track job applications, save postings, set reminders, and avoid duplicate applications",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "alarms",
+    "notifications"
+  ],
+  "host_permissions": [
+    "https://*/*",
+    "http://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.linkedin.com/jobs/*",
+        "*://*.indeed.com/viewjob*",
+        "*://*.indeed.com/rc/clk*",
+        "*://*.glassdoor.com/job-listing/*",
+        "*://*.monster.com/job-openings/*",
+        "*://*.ziprecruiter.com/c/*",
+        "*://*.dice.com/jobs/*",
+        "*://jobs.lever.co/*",
+        "*://jobs.ashbyhq.com/*",
+        "*://boards.greenhouse.io/*"
+      ],
+      "js": ["content.js"],
+      "css": ["content-styles.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Job Application Tracker",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "job-tracker@example.com",
+      "strict_min_version": "109.0"
+    }
+  }
+}
